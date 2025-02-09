@@ -55,7 +55,7 @@ To replicate the analysis, ensure the following dependencies are installed:
 
 1. Clone the repository and navigate to the project directory.
 2. Install the required libraries using `pip install -r requirements.txt`.
-3. Execute the Jupyter notebook (`Untitled31-1.ipynb`) to generate synthetic data, train the model, and visualise results.
+3. Execute the Jupyter notebook (`Predictive Modelling of Pharmaceutical Stock Demand Using Machine Learning.ipynb`) to generate synthetic data, train the model, and visualise results.
 4. Use the provided functions to make predictions or analyse feature importance.
 
 ## Results Summary
